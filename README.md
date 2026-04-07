@@ -36,17 +36,10 @@ python main.py
 - Telegram: [@Merunthicha](https://t.me/Merunthicha)
 - YouTube: [@Merunthicha](https://www.youtube.com/@Merunthicha)
 
-## Version
+## Updates
 
 ```bash
-Version 1.0
--
-Version 1.1
-- Debug
-Version 1.2
-- No Debug
-Version 1.3
-- WTF AGAIN
-Version 1.4
-- Now it Okay?
+Version 1.0 (7/4/26)
+- Push on Github
+
  ```
