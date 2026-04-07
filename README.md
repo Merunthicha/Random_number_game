@@ -47,4 +47,6 @@ Version 1.2
 - No Debug
 Version 1.3
 - WTF AGAIN
+Version 1.4
+- Now it Okay?
  ```
