@@ -9,7 +9,7 @@ Try to guess the number between a range you choose!
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/Merunthicha/random-number-game.git
+git clone https://github.com/Merunthicha/Random_number_game.git
 ```
 
 2. Run the game
