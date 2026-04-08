@@ -59,7 +59,7 @@ ex. pip install -r requirements_v1.1.txt
  ![Game Shot v1.1](screenshot/screenshot_v1.1.png)
 ### Added
 ```
-- Implemented the **Rich** library to enhance Terminal UI and visual appeal.
+- Implemented the Rich library to enhance Terminal UI and visual appeal.
 ```
 
 ### Fixed
