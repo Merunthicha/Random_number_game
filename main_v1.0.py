@@ -1,6 +1,6 @@
 # Random Number Game
 # Github: @Merunthicha
-# Version: 1.0
+# Version: 1.1
 
 # == IMPORT ==
 import random as ran
@@ -61,7 +61,7 @@ def random_game():
 
 # == CREATOR INFO ==
 def creator_info():
-    print("Name:      Merunthicha")
+    print("Name:      Merunthicha (Wanvisa Phumam)")
     print("Github:   @Merunthicha")
     print("Telegram: @Merunthicha")
     print("Youtube:  @Merunthicha")
