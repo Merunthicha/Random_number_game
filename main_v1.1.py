@@ -7,7 +7,6 @@ import random as ran
 from rich import print
 from rich.panel import Panel
 
-
 # == RANDOM GAME ==
 # SET RAMGE
 def random_game():

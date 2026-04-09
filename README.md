@@ -19,9 +19,8 @@ ex. python main_v1.0.py
 ## Installation
 
 ```bash
-pip install -r requirements_(Version).txt
+pip install -r requirements.txt
 ```
-ex. pip install -r requirements_v1.1.txt
 
 ---
 
@@ -44,6 +43,8 @@ ex. pip install -r requirements_v1.1.txt
 
 ---
 
+# Updates
+
 ## [Version 1.0] - 2026-04-07
 ![Game Shot v1.0](screenshot/screenshot_v1.0.png)
 ### Added
@@ -51,9 +52,6 @@ ex. pip install -r requirements_v1.1.txt
 - Initial release of Random Number Game.
 - Core gameplay mechanics and basic range settings.
 ```
----
-
-# Updates
 
  ## [Version 1.1] - 2026-04-08
  ![Game Shot v1.1](screenshot/screenshot_v1.1.png)
@@ -69,5 +67,22 @@ ex. pip install -r requirements_v1.1.txt
 - Fixed an issue where the main menu would not reappear after finishing a game.
 ```
 
+ ## [Version 1.2] - 2026-04-09
+ ![Game Shot v1.2](screenshot/screenshot_v1.2.png)
+### Added
+```
+- Added a difficulty level option, or you can customize it to your liking.
+- Splitting the text into functions makes the code easier to read and modify.
+```
+
+### Fixed
+```
+- Fix more type error checking.
+```
+
+### Changed
+```
+- Instead of using choice == "A", use a dictionary for easier correction.
+```
 ---
 
